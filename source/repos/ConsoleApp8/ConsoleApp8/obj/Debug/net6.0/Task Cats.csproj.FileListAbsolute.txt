@@ -1,0 +1,15 @@
+C:\Users\memme\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\Task Cats.exe
+C:\Users\memme\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\Task Cats.deps.json
+C:\Users\memme\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\Task Cats.runtimeconfig.json
+C:\Users\memme\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\Task Cats.dll
+C:\Users\memme\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\Task Cats.pdb
+C:\Users\memme\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\Task Cats.csproj.AssemblyReference.cache
+C:\Users\memme\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\Task Cats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\Task Cats.AssemblyInfoInputs.cache
+C:\Users\memme\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\Task Cats.AssemblyInfo.cs
+C:\Users\memme\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\Task Cats.csproj.CoreCompileInputs.cache
+C:\Users\memme\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\Task Cats.dll
+C:\Users\memme\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\refint\Task Cats.dll
+C:\Users\memme\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\Task Cats.pdb
+C:\Users\memme\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\Task Cats.genruntimeconfig.cache
+C:\Users\memme\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ref\Task Cats.dll
